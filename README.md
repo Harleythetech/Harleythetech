@@ -29,7 +29,10 @@ Note:
 
 🧊 Fun Fact: I learned Coding way back from 2020 (not too long ago)
 
-
+![status](https://dev.discordprofiles.me/badge/profiles/738289759545327627?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/738289759545327627)
+![vscode](https://dev.discordprofiles.me/badge/vscode/738289759545327627)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/738289759545327627)](https://dev.discordprofiles.me/openspotify/738289759545327627)
 <!--
 **Harleythetech/Harleythetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
