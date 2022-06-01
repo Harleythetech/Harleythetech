@@ -10,9 +10,9 @@ Currently I'm studying at STI San Pablo with the course ICT - Mobile and Web Dev
 
 I love to join different communities and competition that invlolve creating something for the society.
 
--
+
 -------------------------------------------------------------------------------------------------------
--
+
 
 
 ### Tools
