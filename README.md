@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
+
 
 <!--
 **Harleythetech/Harleythetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
