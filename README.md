@@ -1,7 +1,9 @@
 Hi there👋
 ![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
+<div align="center">
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20Activity/Do%20Not%20Disturb/red?icon=discord)](https://github.com/Harleythetech/Harleythetech)
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20index.html%2C%208%20hours%2032%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+ </div>
 
 
 Hello! My name is Harley, and I'm a Filipino Student Developer. If I'm Not Coding I usually do other hobbies. I'm Studying remotely while creating projects that could improve my abilities as a programmer.
