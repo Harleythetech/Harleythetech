@@ -2,7 +2,7 @@
 ![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
 <div align="center">
  
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Android%20Studio%2C%20Blue%20Ocean%20Goodies%2C%201%20hours%2015%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Just%20started.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
  
  </div>
 
