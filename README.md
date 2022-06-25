@@ -2,7 +2,7 @@
 ![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
 <div align="center">
  
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Walkman%20Desktop%2C%20The%20Stylistics%20-%20You%20Make%20Me%20Feel%20Brand%20New%20Live%2C%20?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20OneDriveMapper.ps1%2C%2019%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
  
  </div>
 
