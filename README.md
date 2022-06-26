@@ -2,7 +2,7 @@
 ![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
 <div align="center">
  
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Walkman%20Desktop%2C%20%E7%9F%B3%E5%B0%BE%E8%B1%8A%20-%20TOKYO%201980s%20Victor%20Edition%20%28The%20Compilation%29%20Boogie%2C%20Funk%20%26%20Modern%20Soul%20from%20Japan%2C%203%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Just%20started.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
  
  </div>
 
