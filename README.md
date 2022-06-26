@@ -2,7 +2,7 @@
 ![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
 <div align="center">
  
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Just%20started.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Kubeta%20Player%20v1.2.a%2C%20%E9%AB%98%E6%A9%8B%E7%8E%B2%E5%AD%90%20-%20TOKYO%201980s%20Victor%20Edition%20%28The%20Compilation%29%20Boogie%2C%20Funk%20%26%20Modern%20Soul%20from%20Japan%2C%20?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
  
  </div>
 
