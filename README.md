@@ -2,7 +2,7 @@
 ![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
 <div align="center">
  
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Do-Not-Disturb/currently%20sick%20so%20i%20won%27t%20be%20programming%20for%20a%20bit?color=fc4409&labelColor=fc4409&icon=discord)](https://github.com/Harleythetech/Harleythetech)
  
  </div>
 
