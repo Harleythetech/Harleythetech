@@ -2,7 +2,7 @@
 ![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
 <div align="center">
  
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Kubeta%20Player%20v1.2.a%2C%20Momoko%20Kikuchi%20%28%E8%8F%8A%E6%B1%A0%E6%A1%83%E5%AD%90%29%20-%20Ocean%20Side%20%7BVap%20-%2080003-32%20CD%7D%20%5BFLAC%5D%2C%202%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
  
  </div>
 
