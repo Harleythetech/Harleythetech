@@ -2,7 +2,7 @@
 ![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
 <div align="center">
  
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/osu%21%2C%20Phuoc%20Thinh%20-%20Super%20Idol%20but%20it%27s%20Hardstyle%20remix%20%5BExpert%5D%2C%20?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Kubeta%20Player%20v1.2.a%2C%20Tatsuro%20Yamashita%20-%20Come%20Along%203%2C%202%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
  
  </div>
 
