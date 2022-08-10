@@ -2,7 +2,7 @@
 ![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
 <div align="center">
  
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Hard%20to%20Say%20I%27m%20Sorry%20-%202007%20Remaster%20by%20Chicago%20%7C%200%3A01%3A25%20of%200%3A03%3A43?color=fc4409&labelColor=1db954&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20You%20by%20Basil%20Valdez%20%7C%200%3A00%3A41%20of%200%3A04%3A06?color=fc4409&labelColor=1db954&icon=discord)](https://github.com/Harleythetech/Harleythetech)
  
  </div>
 
