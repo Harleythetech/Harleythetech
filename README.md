@@ -24,9 +24,9 @@ I love to join different communities and competition that invlolve creating some
 - C# (Windows, Android)
 - HTML & CSS (BootStrap)
 - Java (Windows, Android)
-- JavaScript
-- SQL
-- asp.Net
+- JavaScript (Web, Discord.js)
+- SQL (new to this)
+- asp.Net (new to this)
 
 Note:
 
