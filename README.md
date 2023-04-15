@@ -20,9 +20,13 @@ I love to join different communities and competition that invlolve creating some
 
 
 
-### Tools
-![languages_merged](https://user-images.githubusercontent.com/51787264/171457184-cd06b877-87a4-4942-8739-c7b41422e0f6.png)
-
+### Languages:
+- C# (Windows, Android)
+- HTML & CSS (BootStrap)
+- Java (Windows, Android)
+- JavaScript
+- SQL
+- asp.Net
 
 Note:
 
