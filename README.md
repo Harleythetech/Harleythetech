@@ -11,7 +11,7 @@ Hello! My name is Harley, and I'm a Filipino Student Developer. If I'm Not Codin
 
 I have a huge interest in UX/UI Design as well as coding. I'm currently learning mobile development with Java language using Android Studio
 
-Currently I'm studying at STI San Pablo with the course ICT - Mobile and Web Development
+Currently I'm studying at PLSP - BSIT (Graduated from STI San Pablo)
 
 I love to join different communities and competition that invlolve creating something for the society.
 
