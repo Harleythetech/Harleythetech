@@ -9,7 +9,7 @@
 
 Hello! My name is Harley, and I'm a Filipino Student Developer. If I'm Not Coding I usually do other hobbies. I'm Studying remotely while creating projects that could improve my abilities as a programmer.
 
-I have a huge interest in UX/UI Design as well as coding. I'm currently learning mobile development with Java language using Android Studio
+I have a huge interest in UX/UI Design as well as coding.
 
 Currently I'm studying at PLSP - BSIT (Graduated from STI San Pablo)
 
