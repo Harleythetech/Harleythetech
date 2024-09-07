@@ -1,19 +1,7 @@
-### Hi there👋
-![Github](https://user-images.githubusercontent.com/51787264/171453041-15275204-3e23-43a9-873c-4cdd81a6976e.png)
-<div align="center">
- 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Code%2C%20Idling%2C%2018%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
- 
- </div>
+### Hi there, I'm Harley!👋
+ [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Code%2C%20Idling%2C%2018%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
 
-
-Hello! My name is Harley, and I'm a Filipino Student Developer. If I'm Not Coding I usually do other hobbies. I'm Studying remotely while creating projects that could improve my abilities as a programmer.
-
-I have a huge interest in UX/UI Design as well as coding.
-
-Currently I'm studying at PLSP - BSIT (Graduated from STI San Pablo)
-
-I love to join different communities and competition that invlolve creating something for the society.
+ a student programmer driven by a love for tech and hands-on projects. From building electronics to car mods, audio setups, gaming, and graphic design, I'm always pushing my skills and creativity further.
 
 
 -------------------------------------------------------------------------------------------------------
