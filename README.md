@@ -1,7 +1,8 @@
-### Hi there, I'm Harley!👋
+![Banner](https://github.com/user-attachments/assets/5c0e9c0f-9001-4525-835d-dfd695a6cbf7)
+
  [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Code%2C%20Idling%2C%2018%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
 
- a student programmer driven by a love for tech and hands-on projects. From building electronics to car mods, audio setups, gaming, and graphic design, I'm always pushing my skills and creativity further.
+
 
 
 -------------------------------------------------------------------------------------------------------
