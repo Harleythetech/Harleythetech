@@ -1,6 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/5c0e9c0f-9001-4525-835d-dfd695a6cbf7)
 
- [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Code%2C%20Idling%2C%2018%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/Harleythetech/Harleythetech)
+![status](https://api.statusbadges.me/badge/status/738289759545327627?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/738289759545327627?style=for-the-badge) ![vscode](https://api.statusbadges.me/badge/vscode/738289759545327627?style=for-the-badge)
 
 
 
