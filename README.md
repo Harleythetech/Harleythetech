@@ -13,5 +13,5 @@ I'm a student programmer driven by a genuine love for technology and hands-on pr
 ---
 
 ### Discord Activity  
-![status](https://api.statusbadges.me/badge/status/738289759545327627?style=for-the-badge) 
-![playing](https://api.statusbadges.me/badge/playing/738289759545327627?style=for-the-badge)
+[![Discord Presence](https://lanyard.cnrad.dev/api/738289759545327627?theme=dark&borderRadius=5px)](https://discord.com/users/738289759545327627)
+
