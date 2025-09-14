@@ -1,45 +1,17 @@
-![Banner](https://github.com/user-attachments/assets/5c0e9c0f-9001-4525-835d-dfd695a6cbf7)
+# Hi, I'm Harley
 
-![status](https://api.statusbadges.me/badge/status/738289759545327627?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/738289759545327627?style=for-the-badge) 
+I build and design things for the web.
+
+I'm a student programmer driven by a genuine love for technology and hands-on projects. Whether it's building electronics, working on car modifications, setting up audio systems, gaming, or experimenting with graphic design, I enjoy exploring new ways to push my skills and creativity further.
+
+---
+
+### GitHub Stats
+![Harleyyyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harleythetech&show_icons=true&theme=github_dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harleythetech&layout=compact&theme=github_dark)
 
 
+---
 
--------------------------------------------------------------------------------------------------------
-
-
-
-### Languages:
-- C# (Windows, Android)
-- HTML & CSS (BootStrap)
-- Java (Windows, Android)
-- JavaScript (Web, Discord.js)
-- SQL (new to this)
-- asp.Net (new to this)
-
-Note:
-
-👨‍💻 I'm currently working on improving my skills and also the developers info website i made
-
-🌱 I'm currently learning all languages said here
-
-🫠 Pronouns: He/Him
-
-🧊 Fun Fact: I learned Coding way back from 2020 (not too long ago)
-<!--
-![status](https://dev.discordprofiles.me/badge/status/738289759545327627?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/738289759545327627)
-![vscode](https://dev.discordprofiles.me/badge/vscode/738289759545327627)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/738289759545327627)](https://dev.discordprofiles.me/openspotify/738289759545327627)
-**Harleythetech/Harleythetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Discord Activity  
+![status](https://api.statusbadges.me/badge/status/738289759545327627?style=for-the-badge) 
+![playing](https://api.statusbadges.me/badge/playing/738289759545327627?style=for-the-badge)
