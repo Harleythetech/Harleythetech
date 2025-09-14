@@ -10,8 +10,3 @@ I'm a student programmer driven by a genuine love for technology and hands-on pr
 ![Harleyyyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harleythetech&show_icons=true&theme=github_dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harleythetech&layout=compact&theme=github_dark)
 
 
----
-
-### Discord Activity  
-[![Discord Presence](https://lanyard.cnrad.dev/api/738289759545327627?theme=dark&borderRadius=5px)](https://discord.com/users/738289759545327627)
-
